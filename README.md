@@ -1,5 +1,5 @@
 
-# Übung 22 - Collections
+# Übung 23 - Vererbung
 
 
 ## 1. Aufgabe
